@@ -152,18 +152,18 @@ This roadmap outlines the general direction of The Official 67 Coin ($67) ecosys
 
 ### CEX Access Expansion *(Current)*
 
-- MEXC  
-- LBank  
-- BitMart *(BM Discovery)*  
-- KCEX *(Spot + Futures)*  
-- Bitrue *(Alpha + USDT Futures)*  
-- Gate Alpha *(Solana section)*  
-- Moonshot  
-- BitKan *(Spot)*  
-- BingX  
-- CEX.io  
-- XT  
-- KuCoin *(Alpha)*
+![MEXC](https://img.shields.io/badge/MEXC-Access-green)
+![LBank](https://img.shields.io/badge/LBank-Access-green)
+![BitMart](https://img.shields.io/badge/BitMart-BM%20Discovery-blue)
+![KCEX](https://img.shields.io/badge/KCEX-Spot%20%2B%20Futures-blue)
+![Bitrue](https://img.shields.io/badge/Bitrue-Alpha%20%2B%20USDT%20Futures-blue)
+![Gate](https://img.shields.io/badge/Gate-Alpha%20(Solana)-blue)
+![Moonshot](https://img.shields.io/badge/Moonshot-Access-green)
+![BitKan](https://img.shields.io/badge/BitKan-Spot-green)
+![BingX](https://img.shields.io/badge/BingX-Access-green)
+![CEX.io](https://img.shields.io/badge/CEX.io-Access-green)
+![XT](https://img.shields.io/badge/XT-Access-green)
+![KuCoin](https://img.shields.io/badge/KuCoin-Alpha-blue)
 
 ---
 
