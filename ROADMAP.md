@@ -74,40 +74,10 @@ Our objective is to continue expanding global access to $67 by pursuing Tier-1 e
 
 ### Public Tier-1 Acknowledgements of "67"
 
-<table align="center">
-<tr>
-  <td align="center" width="260">
-    <a href="https://x.com/binance/status/1965476926920782074">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.svg" width="150"/><br/>
-      <b>Binance</b><br/>
-      <sub>View post →</sub>
-    </a>
-  </td>
-  <td align="center" width="260">
-    <a href="https://x.com/okx/status/1999184969764090115">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OKX_logo.svg" width="150"/><br/>
-      <b>OKX</b><br/>
-      <sub>View post →</sub>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="260">
-    <a href="https://x.com/Gemini/status/1998073538213826716">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Gemini_logo.svg" width="150"/><br/>
-      <b>Gemini</b><br/>
-      <sub>View post →</sub>
-    </a>
-  </td>
-  <td align="center" width="260">
-    <a href="https://x.com/bitget/status/1998709364853535201">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bitget_logo.svg" width="150"/><br/>
-      <b>Bitget</b><br/>
-      <sub>View post →</sub>
-    </a>
-  </td>
-</tr>
-</table>
+[![Binance](https://img.shields.io/badge/Binance-Public%20Post-black?logo=binance&logoColor=white)](https://x.com/binance/status/1965476926920782074)
+[![OKX](https://img.shields.io/badge/OKX-Public%20Post-black?logo=okx&logoColor=white)](https://x.com/okx/status/1999184969764090115)
+[![Gemini](https://img.shields.io/badge/Gemini-Public%20Post-black?logo=gemini&logoColor=white)](https://x.com/Gemini/status/1998073538213826716)
+[![Bitget](https://img.shields.io/badge/Bitget-Public%20Post-black?logo=bitget&logoColor=white)](https://x.com/bitget/status/1998709364853535201)
 
 ### Key Initiatives
 
