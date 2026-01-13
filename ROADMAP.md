@@ -72,13 +72,42 @@ Our objective is to continue expanding global access to $67 by pursuing Tier-1 e
 - No team allocation
 - Fully transparent on-chain data
 
-### Public Tier-1 Acknowledgements of “67”
+### Public Tier-1 Acknowledgements of "67"
 
-
-| Binance | <a href="https://x.com/binance/status/1965476926920782074"><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/binance/status/1965476926920782074) |
-| OKX | <a href="https://x.com/okx/status/1999184969764090115"><img src="https://cryptologos.cc/logos/okb-okb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/okx/status/1999184969764090115) |
-| Gemini | <a href="https://x.com/Gemini/status/1998073538213826716"><img src="https://cryptologos.cc/logos/gemini-dollar-gusd-logo.png" width="60"/></a> | [View Tweet →](https://x.com/Gemini/status/1998073538213826716) |
-| Bitget | <a href="https://x.com/bitget/status/1998709364853535201"><img src="https://cryptologos.cc/logos/bitget-token-bgb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/bitget/status/1998709364853535201) |
+<table align="center">
+<tr>
+  <td align="center" width="300">
+    <a href="https://x.com/binance/status/1965476926920782074">
+      <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" width="140" height="140"/><br/>
+      <b>Binance</b><br/>
+      <sub>View Tweet →</sub>
+    </a>
+  </td>
+  <td align="center" width="300">
+    <a href="https://x.com/okx/status/1999184969764090115">
+      <img src="https://cryptologos.cc/logos/okb-okb-logo.png" width="140" height="140"/><br/>
+      <b>OKX</b><br/>
+      <sub>View Tweet →</sub>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://x.com/Gemini/status/1998073538213826716">
+      <img src="https://cryptologos.cc/logos/gemini-dollar-gusd-logo.png" width="140" height="140"/><br/>
+      <b>Gemini</b><br/>
+      <sub>View Tweet →</sub>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://x.com/bitget/status/1998709364853535201">
+      <img src="https://cryptologos.cc/logos/bitget-token-bgb-logo.png" width="140" height="140"/><br/>
+      <b>Bitget</b><br/>
+      <sub>View Tweet →</sub>
+    </a>
+  </td>
+</tr>
+</table>
 
 ### Key Initiatives
 
