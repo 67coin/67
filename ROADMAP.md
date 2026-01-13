@@ -74,7 +74,7 @@ Our objective is to continue expanding global access to $67 by pursuing Tier-1 e
 
 ### Public Tier-1 Acknowledgements of “67”
 
-|:--------:|:----:|:-------------:|
+
 | Binance | <a href="https://x.com/binance/status/1965476926920782074"><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/binance/status/1965476926920782074) |
 | OKX | <a href="https://x.com/okx/status/1999184969764090115"><img src="https://cryptologos.cc/logos/okb-okb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/okx/status/1999184969764090115) |
 | Gemini | <a href="https://x.com/Gemini/status/1998073538213826716"><img src="https://cryptologos.cc/logos/gemini-dollar-gusd-logo.png" width="60"/></a> | [View Tweet →](https://x.com/Gemini/status/1998073538213826716) |
