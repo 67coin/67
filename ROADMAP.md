@@ -74,14 +74,11 @@ Our objective is to continue expanding global access to $67 by pursuing Tier-1 e
 
 ### Public Tier-1 Acknowledgements of “67”
 
-- Binance  
-  https://x.com/binance/status/1965476926920782074
-- OKX  
-  https://x.com/okx/status/1999184969764090115
-- Gemini  
-  https://x.com/Gemini/status/1998073538213826716
-- Bitget  
-  https://x.com/bitget/status/1998709364853535201
+|:--------:|:----:|:-------------:|
+| Binance | <a href="https://x.com/binance/status/1965476926920782074"><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/binance/status/1965476926920782074) |
+| OKX | <a href="https://x.com/okx/status/1999184969764090115"><img src="https://cryptologos.cc/logos/okb-okb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/okx/status/1999184969764090115) |
+| Gemini | <a href="https://x.com/Gemini/status/1998073538213826716"><img src="https://cryptologos.cc/logos/gemini-dollar-gusd-logo.png" width="60"/></a> | [View Tweet →](https://x.com/Gemini/status/1998073538213826716) |
+| Bitget | <a href="https://x.com/bitget/status/1998709364853535201"><img src="https://cryptologos.cc/logos/bitget-token-bgb-logo.png" width="60"/></a> | [View Tweet →](https://x.com/bitget/status/1998709364853535201) |
 
 ### Key Initiatives
 
