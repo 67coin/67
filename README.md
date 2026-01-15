@@ -133,9 +133,15 @@ Verify
 - Discord community launch  
 - Infrastructure & tooling exploration  
 
-👉 [View detailed roadmap →](./docs/roadmap.md)
+👉 [View detailed roadmap →]
+## 📘 Documentation
 
+- 🗺️ Roadmap (detailed) → ./docs/roadmap.md
+- ❓ FAQ → ./docs/faq.md
 ---
+
+
+
 
 ## Official Links
 
@@ -177,6 +183,7 @@ Cryptocurrency investments carry risk.
 This is not financial advice. Always DYOR.
 
 ---
+
 
 <p align="center">
   <strong>From 67 to 67 Billion</strong><br>
