@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="67 Coin Banner" width="100%" />
+  <img src="./banner.png" alt="67 Coin Banner" />
 </p>
 
 <!-- Logo -->
