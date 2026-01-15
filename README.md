@@ -136,11 +136,24 @@ Verify
 ⬇️ [View detailed roadmap ↓]
 ## 📘 Documentation
 
-- 🗺️ Roadmap (detailed) → 67/docs/roadmap.md
-- ❓ FAQ → 67/docs/faq.md
----
+<p align="center">
+  <a href="./docs/roadmap.md">
+    <img src="https://img.shields.io/badge/Roadmap-View-purple?style=for-the-badge" />
+  </a>
+  <a href="./docs/faq.md">
+    <img src="https://img.shields.io/badge/FAQ-View-blue?style=for-the-badge" />
+  </a>
+</p>
 
+## ❓ FAQ
 
+Have questions about $67, tokenomics, wallets, or how to buy?
+
+<p align="center">
+  <a href="./docs/faq.md">
+    <img src="https://img.shields.io/badge/View%20FAQ-Documentation-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
 
 ## Official Links
