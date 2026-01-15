@@ -97,7 +97,7 @@ Verify
 
 <p align="center">
   <a href="https://pump.fun/coin/9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump">
-    <img src="https://img.shields.io/badge/Pump.fun-Buy%20$67-6AFF8F?style=for-the-badge&logo=solana&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pump.fun-Buy%20$67-00E676?style=for-the-badge&logo=solana&logoColor=black" />
   </a>
   <a href="https://raydium.io/swap/?inputMint=sol&outputMint=9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump">
     <img src="https://img.shields.io/badge/Raydium-Swap-6C5DD3?style=for-the-badge&logo=raydium&logoColor=white" />
@@ -108,9 +108,8 @@ Verify
 </p>
 
 <p align="center">
-  Always verify the official mint address before buying.
+  <sub>Always verify the official mint address before buying.</sub>
 </p>
-
 ---
 
 ## Roadmap
