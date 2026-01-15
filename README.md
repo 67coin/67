@@ -138,13 +138,12 @@ Verify
 
 <p align="center">
   <a href="./docs/roadmap.md">
-    <img src="https://img.shields.io/badge/Roadmap-View-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ROADMAP-View%20Detailed-purple?style=for-the-badge&logo=map&logoColor=white" />
   </a>
   <a href="./docs/faq.md">
-    <img src="https://img.shields.io/badge/FAQ-View-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FAQ-View%20Answers-blue?style=for-the-badge&logo=question&logoColor=white" />
   </a>
 </p>
-
 
 
 
