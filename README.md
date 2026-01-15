@@ -133,7 +133,7 @@ Verify
 - Discord community launch  
 - Infrastructure & tooling exploration  
 
-👉 [View detailed roadmap →]
+⬇️ [View detailed roadmap ↓]
 ## 📘 Documentation
 
 - 🗺️ Roadmap (detailed) → ./docs/roadmap.md
