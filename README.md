@@ -145,15 +145,7 @@ Verify
   </a>
 </p>
 
-## ❓ FAQ
 
-Have questions about $67, tokenomics, wallets, or how to buy?
-
-<p align="center">
-  <a href="./docs/faq.md">
-    <img src="https://img.shields.io/badge/View%20FAQ-Documentation-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
 
 
 ## Official Links
