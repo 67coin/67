@@ -97,19 +97,18 @@ Verify
 
 <p align="center">
   <a href="https://pump.fun/coin/9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump">
-    <img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" height="36" />
-    <strong> Pump.fun</strong>
+    <img src="https://img.shields.io/badge/Pump.fun-Buy%20$67-00E676?style=for-the-badge&logo=solana&logoColor=black" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://raydium.io/swap/?inputMint=sol&outputMint=9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump">
-    <img src="https://raydium.io/logo.svg" height="36" />
-    <strong> Raydium</strong>
+    <img src="https://img.shields.io/badge/Raydium-Swap-6C5DD3?style=for-the-badge&logo=raydium&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://jup.ag/tokens/9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump">
-    <img src="https://station.jup.ag/favicon.ico" height="36" />
-    <strong> Jupiter</strong>
+    <img src="https://img.shields.io/badge/Jupiter-Aggregator-F4B731?style=for-the-badge&logo=jupiter&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Always verify the official mint address before buying.</sub>
 </p>
 
 ## Roadmap
