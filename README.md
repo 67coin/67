@@ -136,8 +136,8 @@ Verify
 ⬇️ [View detailed roadmap ↓]
 ## 📘 Documentation
 
-- 🗺️ Roadmap (detailed) → ./docs/roadmap.md
-- ❓ FAQ → ./docs/faq.md
+- 🗺️ Roadmap (detailed) → 67/docs/roadmap.md
+- ❓ FAQ → 67/docs/faq.md
 ---
 
 
