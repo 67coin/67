@@ -57,7 +57,7 @@ It is a token that allows people to participate on-chain in something that alrea
 | Blockchain | Solana |
 | Standard | SPL Token |
 | Total Supply | 999,680,000 |
-| Circulating Supply | 100% |
+| Circulating Supply | 999,680,000 100% |
 | Launch Date | September 7, 2025 |
 | Launch Platform | Pump.fun |
 | Launch Type | Fair Launch |
