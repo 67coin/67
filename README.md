@@ -142,7 +142,7 @@ Verify
     <img src="https://img.shields.io/badge/FAQ-View%20Answers-blue?style=for-the-badge&logo=question&logoColor=white" />
   </a>
   <a href="./docs/tokenomics.md">
-    <img src="https://img.shields.io/badge/TOKENOMICS-View%20Detailed-purple?style=for-the-badge&logo=map&logoColor=white" />
+    <img src="https://img.shields.io/badge/TOKENOMICS-View%20Detailed-grey?style=for-the-badge&logo=map&logoColor=white" />
   </a>
 </p>
 
