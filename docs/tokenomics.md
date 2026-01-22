@@ -31,8 +31,8 @@ https://solscan.io/token/9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump
 
 | Metric | Value |
 |------|------|
-| Total Supply | 999,680,000 |
-| Max Supply | 999,680,000 |
+| Total Supply | 999,68M |
+| Max Supply | 999,68M |
 | Inflation | None |
 | Minting | Disabled (Fixed Supply) |
 
