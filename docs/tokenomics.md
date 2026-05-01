@@ -31,8 +31,8 @@ https://solscan.io/token/9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump
 
 | Metric | Value |
 |------|------|
-| Total Supply | 999,68M |
-| Max Supply | 999,68M |
+| Total Supply | 999.68M |
+| Max Supply | 999.68M |
 | Inflation | None |
 | Minting | Disabled (Fixed Supply) |
 
@@ -52,6 +52,22 @@ $67 launched via a public, permissionless fair launch on Pump.fun.
 
 There were no negotiated allocations, reserved pools, or insider distributions.  
 Token distribution is driven entirely by open market participation and on-chain transfers.
+
+---
+
+## Initial Distribution & Pump.fun Mechanism
+
+$67 launched on Pump.fun in September 2025. Under Pump.fun's standard launch mechanism, all tokens are initially minted to the contract deployer address and sold through an automated bonding curve to public buyers during the launch phase. This is the default behavior for all Pump.fun launches and does not indicate centralized control or insider distribution.
+
+Initial mint transaction:
+https://solscan.io/tx/5AuXHjGKpYNjSsUnHu9BHwhwH9h7DArKhzJcT1nY2RnDH1i3CEZfX5ipYHKPXv4aUahgCLTSbA69hDPpeDGxWkUD
+
+Deployer address:
+https://solscan.io/account/6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P
+
+As of January 2026, tokens had been distributed to thousands of independent addresses through open market activity. Current holder distribution is publicly verifiable on Solscan in real time.
+
+In October 2025, the project underwent a community takeover, transitioning stewardship from the original deployer to the broader 67 community. Mint authority is disabled (no new tokens can be created) and freeze authority is disabled (no accounts can be frozen).
 
 ---
 
