@@ -291,7 +291,7 @@ As a decentralized, community-driven ecosystem, activity depends on ongoing part
 ## 🔹 Where can I find the whitepaper?
 
 The whitepaper is available in the official GitHub repository and through official channels.
-- 📄 [Whitepaper](https://github.com/67coin/67coin-whitepaper/blob/main/whitepaper.md) 
+- 📄 [Whitepaper](https://github.com/67coin/67coin-whitepaper/blob/main/WHITEPAPER.md) 
 ---
 
 > **67 is culture first.  
