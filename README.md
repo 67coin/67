@@ -56,8 +56,8 @@ It is a token that allows people to participate on-chain in something that alrea
 | Ticker | $67 |
 | Blockchain | Solana |
 | Standard | SPL Token |
-| Total Supply | 999,68M |
-| Circulating Supply | 999,68M 100% |
+| Total Supply | 999.68M |
+| Circulating Supply | 999.68M 100% |
 | Launch Date | September 7, 2025 |
 | Launch Platform | Pump.fun |
 | Launch Type | Fair Launch |
